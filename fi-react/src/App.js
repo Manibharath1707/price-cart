@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Card from "./card";
 var priceData = [{plan: "FREE",currency : "$",price :0, period : "/month",
